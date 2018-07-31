@@ -4,6 +4,6 @@ var playlist = {
   
 }
 
-function updatePlaylistn () {
+function updatePlaylistn (playlist, artistName, songTitle) {
   
 }
