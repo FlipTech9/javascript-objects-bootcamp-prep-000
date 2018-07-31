@@ -3,3 +3,7 @@ var playlist = {
   "Carl Orff": 'O Fortuna'
   
 }
+
+function updatePlaylist{
+  
+}
