@@ -4,6 +4,6 @@ var playlist = {
   
 }
 
-function updatePlaylist{
+function updatePlaylistn () {
   
 }
