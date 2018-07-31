@@ -6,4 +6,5 @@ var playlist = {
 
 function updatePlaylistn (playlist, artistName, songTitle) {
   
+  return playlist
 }
